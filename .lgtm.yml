@@ -1,0 +1,7 @@
+extraction:
+  csharp:
+    index:
+      build_command:
+        - dotnet build -c Release --nologo
+      dotnet:
+        version: "5.0.203"
